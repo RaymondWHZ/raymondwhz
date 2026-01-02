@@ -1,5 +1,13 @@
 ## Just a few things about me...
 
+#### Recent productivity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raymondwhz/raymondwhz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raymondwhz/raymondwhz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raymondwhz/raymondwhz/output/github-contribution-grid-snake.svg">
+</picture>
+
 #### Working with
 
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
